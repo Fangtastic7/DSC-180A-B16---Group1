@@ -1,0 +1,8 @@
+customer_id,name,email,age,city,annual_income
+1,John Doe,john.doe@example.com,29,New York,75000
+2,Jane Smith,jane.smith@example.com,34,Los Angeles,80000
+3,Emily Davis,emily.davis@example.com,41,Chicago,67000
+4,Michael Johnson,michael.j@example.com,50,Houston,92000
+5,Sarah Wilson,sarah.wilson@example.com,25,Phoenix,62000
+6,David Martinez,david.m@example.com,37,Philadelphia,78000
+7,Linda Anderson,linda.a@example.com,31,San Antonio,68000
