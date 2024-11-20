@@ -11,5 +11,8 @@
   "description": "",
   "devDependencies": {
     "hardhat": "^2.22.15"
+  },
+  "dependencies": {
+    "pinata-web3": "^1.0.0"
   }
 }
