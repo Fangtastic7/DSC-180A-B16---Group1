@@ -7,7 +7,7 @@ Please follow the step below for reproduction.
 
 1. Be noticed, the files we shared inside repo for frontend is not sufficient to reproduce the project, those are for code reference only.
    because our folder is too large for the github repo, so we have to share the complete file using google drive link, Please download the folder here:
-
+   (It may take you 5-10 minutes to download)
    https://drive.google.com/file/d/18QtEhejdjPWEjL-spLFQ2aRW4BglqhAV/view?usp=sharing
    
 3. Here're the package you need to install to setup:
@@ -15,4 +15,4 @@ Please follow the step below for reproduction.
 npm install --save-dev dotenv tailwindcss postcss autoprefixer eslint typescript
 npm install next react react-dom ethers pinata-web3
 
-3. Then, go to the directory `pinata-nextks` in the terminal, run `npm run dev`, you should be able to see the page at http://localhost:3000/
+3. Then, go to the directory `pinata-nextjs` in the terminal, run `npm run dev`, you should be able to see the page at http://localhost:3000/
