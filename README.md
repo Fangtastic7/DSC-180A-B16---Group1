@@ -5,11 +5,12 @@ here's the video demo for our work in file upload: https://ucsd.zoom.us/rec/shar
 
 Please follow the step below for reproduction.
 
-1. Because our folder is too large for the repo, so we have to share the complete file using google drive link, Please download the folder here:
+1. Be noticed, the files we shared inside repo for frontend is not sufficient to reproduce the project, those are for code reference only.
+   because our folder is too large for the github repo, so we have to share the complete file using google drive link, Please download the folder here:
 
    https://drive.google.com/file/d/18QtEhejdjPWEjL-spLFQ2aRW4BglqhAV/view?usp=sharing
    
-2. Here're the package you need to install to setup:
+3. Here're the package you need to install to setup:
 
 npm install --save-dev dotenv tailwindcss postcss autoprefixer eslint typescript
 npm install next react react-dom ethers pinata-web3
