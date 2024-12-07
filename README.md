@@ -12,7 +12,8 @@ Please follow the step below for reproduction.
    
 3. Here're the package you need to install to setup:
 
-npm install --save-dev dotenv tailwindcss postcss autoprefixer eslint typescript
+npm install --save-dev dotenv tailwindcss postcss autoprefixer eslint typescript 
+
 npm install next react react-dom ethers pinata-web3
 
 3. Then, go to the directory `pinata-nextjs` in the terminal, run `npm run dev`, you should be able to see the page at http://localhost:3000/
